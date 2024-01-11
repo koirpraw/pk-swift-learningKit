@@ -9,3 +9,9 @@ Consists of:
 - page-navigation-app ( A simple app to get the feel of how to navigate between pages in swift.Navigate between 2 pages using NavigationLink).
 - ![xcode-basicLayoutApp](https://github.com/koirpraw/pk-swift-learningKit/assets/7278348/cb002456-7758-4872-bebb-2082bc346d60)
 <img width="494" alt="xcode-basicNavigationApp" src="https://github.com/koirpraw/pk-swift-learningKit/assets/7278348/4058a1fe-49d2-4c5e-8783-5e686fcb87a6">
+
+## Your Title
+
+| | |
+|:-------------------------:|:-------------------------:|
+|![xcode-basicLayoutApp](https://github.com/koirpraw/pk-swift-learningKit/assets/7278348/cb002456-7758-4872-bebb-2082bc346d60) | ![xcode-basicNavigationApp](https://github.com/koirpraw/pk-swift-learningKit/assets/7278348/4058a1fe-49d2-4c5e-8783-5e686fcb87a6) |
